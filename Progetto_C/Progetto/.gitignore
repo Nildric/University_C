@@ -1,0 +1,11 @@
+/Debug/
+/gmon.out
+/fast-boggle-solver-master/
+/ruzzle_dictionary.txt~
+/ruzzle_scheme.txt~
+/output.txt~
+/output.txt
+/Release/*.d
+/Release/*.o
+/Release/Ruzzle_C
+/Release/
